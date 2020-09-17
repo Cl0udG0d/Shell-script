@@ -1,0 +1,4 @@
+ls: cannot access '+': No such file or directory
+
+Command 'cmd' not found, but there are 16 similar ones.
+
